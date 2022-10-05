@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="com.eduardo.main.models.Book"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="com.com.main.repositories.houseRepository"/>
+    <fullyQualifiedTypeName name="com.com.main.models.house"/>
+    <fullyQualifiedTypeName name="com.com.main.repositories.UserRepository"/>
+    <fullyQualifiedTypeName name="com.com.main.services.UserService"/>
+    <fullyQualifiedTypeName name="com.com.main.services.houseService"/>
+    <fullyQualifiedTypeName name="com.com.main.models.House"/>
+    <fullyQualifiedTypeName name="com.com.main.models.tv"/>
+    <fullyQualifiedTypeName name="repositories.TvRepository"/>
+    <fullyQualifiedTypeName name="repositories.UserRepository"/>
+    <fullyQualifiedTypeName name="com.com.main.models.LoginUser"/>
+    <fullyQualifiedTypeName name="com.com.main.models.User"/>
+    <fullyQualifiedTypeName name="services.UserService"/>
+    <fullyQualifiedTypeName name="services.TvService"/>
+    <fullyQualifiedTypeName name="models.User"/>
+    <fullyQualifiedTypeName name="models.LoginUser"/>
+    <fullyQualifiedTypeName name="models.Tv"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+</qualifiedTypeNameHistroy>

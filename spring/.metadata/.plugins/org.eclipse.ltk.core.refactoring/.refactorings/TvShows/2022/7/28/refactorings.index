@@ -1,0 +1,10 @@
+1656815793490	Move 'style.css' to 'css'
+1656816558304	Rename type 'tv'
+1656816649210	Rename type 'tvRepository'
+1656877442994	Rename resource 'Index.jsp'
+1656877698465	Delete element
+1656877749005	Rename package 'controllers'
+1656877774552	Rename package 'models'
+1656877787625	Rename package 'repositories'
+1656877800563	Rename package 'services'
+1656879205182	Rename resource 'Tv.jsp'

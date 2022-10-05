@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<div class="container">
+		<h1>Welcome, <c:out value="${user.userName}"/></h1>
+		
+		<h3>Houses</h3>
+		<a href="/logout">logout</a>
+		<a href="/addPage">+ Add a house</a>
+		<a href="/home">Home</a>
+		
+		<div class="container">
+			<h3><span style="color: red;"><c:out value="${house.user.userName}"/></span>
+			<span style="color: rebeccapurple;"><c:out value="${house.address}"/></span> 
+			<span style="color: darkgreen;"><c:out value="${house.price}"/></span></h3>
+		</div>
+		
+		<button class="btn-warning"><a href="/houses/${house.id}/edit">edit</a></button>
+	</div>
+
+</body>
+</html>
